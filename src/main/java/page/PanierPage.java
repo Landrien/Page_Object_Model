@@ -4,8 +4,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 
-public class Panier {
+public class PanierPage {
 
     WebDriver driver;
     @FindBy(className = "cart_quantity")
@@ -15,13 +16,13 @@ public class Panier {
     WebElement checkout;
 
 
-    public Panier(WebDriver driver) {
+    public PanierPage(WebDriver driver) {
         this.driver = driver;
         PageFactory.initElements(driver, this);
     }
 
     public void verif_cart_quantity() {
-        System.out.println(quantite.getText().equals("1")? "Correct":"Incorrect");
+        Assert.assertEquals(quantite.getText(), "1");
     }
 
     public void click_checkout() {
