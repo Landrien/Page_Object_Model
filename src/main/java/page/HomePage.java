@@ -23,6 +23,10 @@ public class HomePage {
         PageFactory.initElements(driver, this);
     }
 
+    public WebElement getLogo(){
+        return logo;
+    }
+
     public void verify_Login_status() {
         Assert.assertEquals(logo.getText(), "Swag Labs");
         }

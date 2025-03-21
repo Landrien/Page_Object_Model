@@ -1,0 +1,7 @@
+2025-03-21 13:55:11 [main] INFO  AchatTest - Validation de la connexion
+2025-03-21 13:55:11 [main] INFO  AchatTest - HompPage vérifiée
+2025-03-21 13:55:11 [main] INFO  AchatTest - Ajout d'un produit au panier
+2025-03-21 13:55:11 [main] INFO  AchatTest - Vérification de la quantité de produit dans le panier
+2025-03-21 13:55:11 [main] INFO  AchatTest - Validation du formulaire de commande
+2025-03-21 13:55:11 [main] INFO  AchatTest - Validation de la commande
+2025-03-21 13:55:12 [main] INFO  AchatTest - Déconnexion

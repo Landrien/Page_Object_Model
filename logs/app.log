@@ -1,0 +1,99 @@
+13:55:11 [main] INFO  AchatTest (AchatTest.java:20)- Validation de la connexion
+13:55:11 [main] INFO  AchatTest (AchatTest.java:23)- HompPage vérifiée
+13:55:11 [main] INFO  AchatTest (AchatTest.java:26)- Ajout d'un produit au panier
+13:55:11 [main] INFO  AchatTest (AchatTest.java:29)- Vérification de la quantité de produit dans le panier
+13:55:11 [main] INFO  AchatTest (AchatTest.java:36)- Validation du formulaire de commande
+13:55:11 [main] INFO  AchatTest (AchatTest.java:40)- Validation de la commande
+13:55:12 [main] INFO  AchatTest (AchatTest.java:45)- Déconnexion
+14:07:23 [main] INFO  LoginTest (LoginTest.java:24)- Validation de la connexion
+14:07:24 [main] INFO  AchatTest (AchatTest.java:20)- Validation de la connexion
+14:07:24 [main] INFO  AchatTest (AchatTest.java:23)- HompPage vérifiée
+14:07:24 [main] INFO  AchatTest (AchatTest.java:26)- Ajout d'un produit au panier
+14:07:24 [main] INFO  AchatTest (AchatTest.java:29)- Vérification de la quantité de produit dans le panier
+14:07:24 [main] INFO  AchatTest (AchatTest.java:36)- Validation du formulaire de commande
+14:07:24 [main] INFO  AchatTest (AchatTest.java:40)- Validation de la commande
+14:07:25 [main] INFO  AchatTest (AchatTest.java:45)- Déconnexion
+14:07:47 [main] INFO  LoginTest (LoginTest.java:24)- Validation de la connexion
+14:08:56 [main] INFO  LoginTest (LoginTest.java:24)- Validation de la connexion
+14:08:56 [main] INFO  AchatTest (AchatTest.java:20)- Validation de la connexion
+14:08:56 [main] INFO  AchatTest (AchatTest.java:23)- HompPage vérifiée
+14:08:56 [main] INFO  AchatTest (AchatTest.java:26)- Ajout d'un produit au panier
+14:08:56 [main] INFO  AchatTest (AchatTest.java:29)- Vérification de la quantité de produit dans le panier
+14:08:56 [main] INFO  AchatTest (AchatTest.java:36)- Validation du formulaire de commande
+14:08:56 [main] INFO  AchatTest (AchatTest.java:40)- Validation de la commande
+14:08:57 [main] INFO  AchatTest (AchatTest.java:45)- Déconnexion
+14:10:38 [main] INFO  LoginTest (LoginTest.java:24)- Validation de la connexion
+14:10:38 [main] INFO  AchatTest (AchatTest.java:20)- Validation de la connexion
+14:10:38 [main] INFO  AchatTest (AchatTest.java:23)- HompPage vérifiée
+14:10:38 [main] INFO  AchatTest (AchatTest.java:26)- Ajout d'un produit au panier
+14:10:38 [main] INFO  AchatTest (AchatTest.java:29)- Vérification de la quantité de produit dans le panier
+14:10:38 [main] INFO  AchatTest (AchatTest.java:36)- Validation du formulaire de commande
+14:10:38 [main] INFO  AchatTest (AchatTest.java:40)- Validation de la commande
+14:10:39 [main] INFO  AchatTest (AchatTest.java:45)- Déconnexion
+14:11:44 [main] INFO  LoginTest (LoginTest.java:24)- Validation de la connexion
+14:11:46 [main] INFO  AchatTest (AchatTest.java:20)- Validation de la connexion
+14:11:46 [main] INFO  AchatTest (AchatTest.java:23)- HompPage vérifiée
+14:11:46 [main] INFO  AchatTest (AchatTest.java:26)- Ajout d'un produit au panier
+14:11:46 [main] INFO  AchatTest (AchatTest.java:29)- Vérification de la quantité de produit dans le panier
+14:11:46 [main] INFO  AchatTest (AchatTest.java:36)- Validation du formulaire de commande
+14:11:46 [main] INFO  AchatTest (AchatTest.java:40)- Validation de la commande
+14:11:46 [main] INFO  AchatTest (AchatTest.java:45)- Déconnexion
+14:12:17 [main] INFO  LoginTest (LoginTest.java:24)- Validation de la connexion
+14:12:19 [main] INFO  AchatTest (AchatTest.java:20)- Validation de la connexion
+14:12:19 [main] INFO  AchatTest (AchatTest.java:23)- HompPage vérifiée
+14:12:20 [main] INFO  AchatTest (AchatTest.java:26)- Ajout d'un produit au panier
+14:12:20 [main] INFO  AchatTest (AchatTest.java:29)- Vérification de la quantité de produit dans le panier
+14:12:20 [main] INFO  AchatTest (AchatTest.java:36)- Validation du formulaire de commande
+14:12:20 [main] INFO  AchatTest (AchatTest.java:40)- Validation de la commande
+14:12:20 [main] INFO  AchatTest (AchatTest.java:45)- Déconnexion
+14:16:08 [main] INFO  LoginTest (LoginTest.java:24)- Validation de la connexion
+14:16:10 [main] INFO  AchatTest (AchatTest.java:20)- Validation de la connexion
+14:16:10 [main] INFO  AchatTest (AchatTest.java:23)- HompPage vérifiée
+14:16:10 [main] INFO  AchatTest (AchatTest.java:26)- Ajout d'un produit au panier
+14:16:10 [main] INFO  AchatTest (AchatTest.java:29)- Vérification de la quantité de produit dans le panier
+14:16:11 [main] INFO  AchatTest (AchatTest.java:36)- Validation du formulaire de commande
+14:16:11 [main] INFO  AchatTest (AchatTest.java:40)- Validation de la commande
+14:16:11 [main] INFO  AchatTest (AchatTest.java:45)- Déconnexion
+14:19:24 [main] INFO  LoginTest (LoginTest.java:24)- Validation de la connexion
+14:19:26 [main] INFO  AchatTest (AchatTest.java:20)- Validation de la connexion
+14:19:26 [main] INFO  AchatTest (AchatTest.java:23)- HompPage vérifiée
+14:19:26 [main] INFO  AchatTest (AchatTest.java:26)- Ajout d'un produit au panier
+14:19:26 [main] INFO  AchatTest (AchatTest.java:29)- Vérification de la quantité de produit dans le panier
+14:19:26 [main] INFO  AchatTest (AchatTest.java:36)- Validation du formulaire de commande
+14:19:26 [main] INFO  AchatTest (AchatTest.java:40)- Validation de la commande
+14:19:26 [main] INFO  AchatTest (AchatTest.java:45)- Déconnexion
+14:53:53 [main] INFO  LoginTest (LoginTest.java:26)- Validation de la connexion
+14:53:54 [main] INFO  AchatTest (AchatTest.java:20)- Validation de la connexion
+14:53:54 [main] INFO  AchatTest (AchatTest.java:23)- HompPage vérifiée
+14:53:54 [main] INFO  AchatTest (AchatTest.java:26)- Ajout d'un produit au panier
+14:53:54 [main] INFO  AchatTest (AchatTest.java:29)- Vérification de la quantité de produit dans le panier
+14:53:55 [main] INFO  AchatTest (AchatTest.java:36)- Validation du formulaire de commande
+14:53:55 [main] INFO  AchatTest (AchatTest.java:40)- Validation de la commande
+14:53:55 [main] INFO  AchatTest (AchatTest.java:45)- Déconnexion
+14:54:51 [main] INFO  LoginTest (LoginTest.java:26)- Validation de la connexion
+14:55:17 [main] INFO  LoginTest (LoginTest.java:26)- Validation de la connexion
+15:02:23 [main] INFO  LoginTest (LoginTest.java:26)- Validation de la connexion
+15:05:43 [main] INFO  LoginTest (LoginTest.java:26)- Validation de la connexion
+15:06:44 [main] INFO  LoginTest (LoginTest.java:26)- Validation de la connexion
+15:08:28 [main] INFO  LoginTest (LoginTest.java:26)- Validation de la connexion
+15:22:10 [main] INFO  LoginTest (LoginTest.java:25)- Validation de la connexion
+15:22:14 [main] INFO  AchatTest (AchatTest.java:21)- Validation de la connexion
+15:22:14 [main] INFO  AchatTest (AchatTest.java:24)- HompPage vérifiée
+15:22:14 [main] INFO  AchatTest (AchatTest.java:27)- Ajout d'un produit au panier
+15:22:14 [main] INFO  AchatTest (AchatTest.java:30)- Vérification de la quantité de produit dans le panier
+15:22:15 [main] INFO  AchatTest (AchatTest.java:37)- Validation du formulaire de commande
+15:22:15 [main] INFO  AchatTest (AchatTest.java:41)- Validation de la commande
+15:22:15 [main] INFO  AchatTest (AchatTest.java:46)- Déconnexion
+15:28:28 [main] INFO  LoginTest (LoginTest.java:25)- Validation de la connexion
+15:28:32 [main] INFO  AchatTest (AchatTest.java:21)- Validation de la connexion
+15:28:32 [main] INFO  AchatTest (AchatTest.java:24)- HompPage vérifiée
+15:28:33 [main] INFO  AchatTest (AchatTest.java:27)- Ajout d'un produit au panier
+15:28:33 [main] INFO  AchatTest (AchatTest.java:30)- Vérification de la quantité de produit dans le panier
+15:28:33 [main] INFO  AchatTest (AchatTest.java:37)- Validation du formulaire de commande
+15:28:33 [main] INFO  AchatTest (AchatTest.java:41)- Validation de la commande
+15:28:33 [main] INFO  AchatTest (AchatTest.java:46)- Déconnexion
+15:29:47 [main] INFO  LoginTest (LoginTest.java:25)- Validation de la connexion
+15:31:21 [main] INFO  LoginTest (LoginTest.java:25)- Validation de la connexion
+15:32:26 [main] INFO  LoginTest (LoginTest.java:25)- Validation de la connexion
+15:38:35 [main] INFO  LoginTest (LoginTest.java:25)- Validation de la connexion
+15:48:38 [main] INFO  LoginTest (LoginTest.java:25)- Validation de la connexion
